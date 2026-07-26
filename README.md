@@ -2,6 +2,8 @@
 
 > **SentinelAML** is an enterprise-grade AI-powered AML investigation platform that accepts natural-language analyst queries and dynamically plans which analytical tools to execute.
 
+![Dashboard](docs/screenshots/dashboard.png)
+
 ---
 
 ## Key Platform Capabilities
@@ -33,6 +35,17 @@
 7. **Audit-Ready Reporting**:
    - Export enriched execution plan JSON detailing selection/skip rationale per tool.
    - Download HTML/PDF case compliance reports for individual accounts.
+
+---
+
+## Screenshots
+
+| System Component | Interface Screenshot |
+| :--- | :--- |
+| **Main Dashboard & Query Engine** | ![Dashboard](docs/screenshots/dashboard.png) |
+| **Dynamic Execution Planner** | ![Planner](docs/screenshots/planner.png) |
+| **Investigation Findings & Risk Analytics** | ![Findings](docs/screenshots/findings.png) |
+| **Intent Engine Diagnostics** | ![Diagnostics](docs/screenshots/diagnostics.png) |
 
 ---
 
